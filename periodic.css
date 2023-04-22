@@ -1,0 +1,367 @@
+table,
+        th,
+        td {
+            border: 1px solid black;
+        }
+#H{
+    background-color: lightsalmon;
+}        
+#Li{
+background-color: lightsalmon;
+}
+#Be{
+    background-color: rgb(255, 195, 92);
+}
+#B{
+    background-color: lightsalmon;
+}
+#C{
+    background-color: lightsalmon;
+}
+#N{
+    background-color: lightsalmon;
+}
+#O{
+    background-color: lightsalmon;
+}
+#F{
+    background-color: lightgreen;
+}
+#Ne{
+    background-color: wheat;
+}
+#Mg{
+    background-color: rgb(255, 195, 92);
+
+}
+#Ca{
+    background-color: rgb(255, 195, 92);
+
+}
+#Sr{
+    background-color: rgb(255, 195, 92);
+
+}
+#Ba{
+    background-color: rgb(255, 195, 92);
+
+}
+#Ra{
+    background-color: rgb(255, 195, 92);
+
+}
+#Na{
+    background-color: lightsalmon;
+
+}
+#K{
+    background-color: lightsalmon;
+
+}
+#Rb{
+    background-color: lightsalmon;
+
+}
+#Cs{
+    background-color: lightsalmon;
+
+}
+#Fr{
+    background-color: lightsalmon;
+
+}
+#Sc{
+background-color: cadetblue;
+}
+#Y{
+    background-color: cadetblue;
+
+}
+#La{
+    background-color: greenyellow;
+}
+#Pr{
+    background-color: greenyellow;
+}
+#Nd{
+    background-color: greenyellow;
+}
+#Pm {
+    background-color: greenyellow;
+}
+#Sm{
+    background-color: greenyellow;
+}
+#Eu{
+    background-color: greenyellow;
+}
+#Gd {
+    background-color: greenyellow;
+}
+#Tb{
+    background-color: greenyellow;
+}
+#Dy{
+    background-color: greenyellow;
+}
+#Ho{
+    background-color: greenyellow;
+} 
+#Er{
+    background-color: greenyellow;
+}
+#Tm{
+    background-color: greenyellow;
+} 
+#Yb{
+    background-color: greenyellow;
+}
+#Lu{
+    background-color: greenyellow;
+}
+#Ce{
+    background-color: greenyellow;
+}
+#Hf {
+    background-color: plum;
+}
+#Ta{
+    background-color: plum;
+
+} 
+#W {
+    background-color: plum;
+
+}
+#Re{
+    background-color: plum;
+
+} 
+#Os{
+    background-color: plum;
+
+}
+
+#Ir{
+    background-color: plum;
+
+} 
+#Pt{
+    background-color: plum;
+
+} 
+#Au{
+    background-color: plum;
+
+} 
+#Hg{
+    background-color: plum;
+
+}
+#Zr {
+background-color: plum;
+}
+#Nb {
+background-color: plum;
+}
+#Mo {
+background-color: plum;
+}
+#Tc {
+background-color: plum;
+}
+#Ru {
+background-color: plum;
+}
+#Rh {
+background-color: plum;
+}
+#Pd {
+background-color: plum;
+}
+#Ag {
+background-color: plum;
+}
+#Cd{
+background-color: plum;
+}
+#Ti{
+ background-color: plum;   
+} 
+#V {
+background-color: plum;
+}
+#Cr{
+background-color: plum;
+}
+
+#Mn {
+background-color: plum;
+}
+#Fe {
+background-color: plum;
+}
+#Co {
+background-color: plum;
+}
+#Ni {
+background-color: plum;
+}
+#Cu {
+background-color: plum;
+}
+#Zn{
+background-color: plum;
+}
+#Rf{
+    background-color: plum;
+
+}
+#Db{
+background-color: plum;
+
+}
+#Sg{
+background-color: plum;
+
+}
+#Bh{
+background-color: plum;
+
+}
+#Hs{
+background-color: plum;
+
+}
+#Mt{
+    background-color: plum;
+
+
+}
+#Ds{
+    background-color: plum;
+
+
+}
+#Rg{
+    background-color: plum;
+
+
+}
+#Cn{
+    background-color: plum;
+
+
+}
+#Si{
+    background-color: lightsalmon;
+}
+#P{
+    background-color: lightsalmon;
+}
+#S{
+    background-color: lightsalmon;
+}
+#As{
+    background-color: lightsalmon;
+}
+#Se{
+    background-color: lightsalmon;
+}
+#Te{
+    background-color: lightsalmon;
+}
+#Ac{
+background-color: lightskyblue;
+}
+#Th{
+    background-color: lightskyblue;
+
+}
+#Pa{
+    background-color: lightskyblue;
+
+}
+#U{
+    background-color: lightskyblue;
+
+}
+#Np{
+    background-color: lightskyblue;
+
+}
+#Pu{
+    background-color: lightskyblue;
+
+}
+#Am{
+    background-color: lightskyblue;
+
+}
+#Cm{
+    background-color: lightskyblue;
+
+}
+#Bk{background-color: lightskyblue;
+}
+#Cf{
+    background-color: lightskyblue;
+
+}
+#Es{
+    background-color: lightskyblue;
+
+}
+#Fm{
+    background-color: lightskyblue;
+
+}
+#Md{
+    background-color: lightskyblue;
+
+}
+#No{
+    background-color: lightskyblue;
+
+}
+#Lr{
+    background-color: lightskyblue;
+
+}
+#Cl{
+    background-color: lightgreen;
+}
+#Br{
+    background-color: lightgreen;
+}
+#I{
+    background-color: lightgreen;
+}
+#At{
+    background-color: lightgreen;
+}
+#Ts{
+    background-color: lightgreen;
+}
+#Ar{
+background-color: wheat;
+}
+#Kr{
+    background-color: wheat;
+
+}
+#Xe{
+    background-color: wheat;
+
+}
+#Rn{
+    background-color: wheat;
+
+}
+#Og{
+    background-color: wheat;
+
+}
+#He{
+    background-color: wheat;
+}
